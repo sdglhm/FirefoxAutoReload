@@ -1,6 +1,5 @@
 var contextMenu = require("sdk/context-menu");
 var tabs = require("sdk/tabs");
-var utils = require("sdk/tabs/utils").id;
 var self = require("sdk/self");
 var {setInterval, clearInterval} = require('sdk/timers')
 
