@@ -1,7 +1,7 @@
 {
   "title": "AutoRefresh for Fiverr®",
   "name": "autorefreshaddonforfiverr",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "description": "A quickly tinkered addon for Fiverr® sellers to keep their profile online. Populates a reload menu on Fiverr® website.",
   "main": "index.js",
   "author": "Lahiru Himesh Madusanka",

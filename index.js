@@ -8,7 +8,7 @@ var current;
 
 var menuItem = contextMenu.Menu({
 	label: "Auto-Reload",
-	context: contextMenu.URLContext("*.fiverr.com/*"),
+	context: contextMenu.URLContext("*.fiverr.com"),
 	contentScript: "self.on('click', function(node, data) {self.postMessage(data, node.id);});",
 	image: self.data.url("refresh-icon.png"),
 	items: [
